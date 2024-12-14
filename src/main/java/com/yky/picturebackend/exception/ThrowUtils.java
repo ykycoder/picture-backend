@@ -1,5 +1,4 @@
-import com.yky.picturebackend.exception.BusinessException;
-import com.yky.picturebackend.exception.ErrorCode;
+package com.yky.picturebackend.exception;
 
 public class ThrowUtils {
 
